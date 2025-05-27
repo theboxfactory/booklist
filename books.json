@@ -1,6 +1,11 @@
 {
   "books": [
     {
+      "title": "Tiny Experiments",
+      "author": "Anne-Laure Le Cunff",
+      "reviewed": false
+    },
+    {
       "title": "Signs",
       "author": "Laura Lynne Jackson",
       "reviewed": false
@@ -31,8 +36,8 @@
       "reviewed": false
     },
     {
-      "title": "Atomic Habits",
-      "author": "James Clear",
+      "title": "The Let Them Theory",
+      "author": "Mel Robbins",
       "reviewed": false
     },
     {
@@ -41,8 +46,83 @@
       "reviewed": false
     },
     {
-      "title": "The Anxious Generation",
-      "author": "Jonathan Haidt",
+      "title": "Heretic",
+      "author": "Catherine Nixey",
+      "reviewed": false
+    },
+    {
+      "title": "Abundance",
+      "author": "Ezra Klein",
+      "reviewed": false
+    },
+    {
+      "title": "The Thinking Life",
+      "author": "P. N. Forni",
+      "reviewed": false
+    },
+    {
+      "title": "Our Dollar, Your Problem",
+      "author": "Kenneth Rogoff",
+      "reviewed": false
+    },
+    {
+      "title": "Adrift",
+      "author": "Scott Galloway",
+      "reviewed": false
+    },
+    {
+      "title": "The Book Of Alchemy",
+      "author": "Suleika Jaouad",
+      "reviewed": false
+    },
+    {
+      "title": "The Next Conversation",
+      "author": "Jefferson Fisher",
+      "reviewed": false
+    },
+    {
+      "title": "Steal Like An Artist",
+      "author": "Austin Kleon",
+      "reviewed": false
+    },
+    {
+      "title": "The Power Of Now",
+      "author": "eckhart tolle",
+      "reviewed": false
+    },
+    {
+      "title": "How To Know A Person",
+      "author": "David Brooks",
+      "reviewed": false
+    },
+    {
+      "title": "Show your work",
+      "author": "Auston Kleon",
+      "reviewed": false
+    },
+    {
+      "title": "The Algebra Of Happiness",
+      "author": "Scott Galloway",
+      "reviewed": false
+    },
+    {
+      "title": "4000 Weeks",
+      "author": "Oliver Burkeman",
+      "reviewed": false
+    },
+    {
+      "title": "The Serviceberry",
+      "author": " Robin Wall Kimmerer",
+      "reviewed": false
+    },
+    {
+      "title": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
+      "author": "Yuval Noah Harari",
+      "reviewed": false
+    },
+    {
+      "title": "Everything Is Tuberculosis",
+      "author": "John Green",
       "reviewed": false
     }
   ]
