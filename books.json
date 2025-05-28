@@ -127,7 +127,12 @@
     },
     {
       "title": "Not The End Of The World",
-      "author": "hannah Ritchie",
+      "author": "Hannah Ritchie",
+      "reviewed": false
+    },
+    {
+      "title": "You're Not Listening",
+      "author": "Kate Murphy",
       "reviewed": false
     }
   ]
